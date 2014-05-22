@@ -1,6 +1,6 @@
 #!/bin/bash
 
-clean_every=10 #builds
+clean_every=30 #builds
 github_user="bubuntux"
 github_repo="mvn"
 branch="repo"
