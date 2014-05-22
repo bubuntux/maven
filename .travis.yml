@@ -1,0 +1,7 @@
+language: cpp
+before_install: git --version
+before_script: chmod +x cleanUp.sh
+script: ./cleanUp.sh
+env:
+  global:
+    secure: KtN0KDMrAXxWHBxGZAd7G5qwqnqOiP/WmwBiz7xumPjR7Dcnf4WgnJrnzNW/LHJvo4F1kOLIwboUUKl5q9rTsuHkmk6Bp2kiLDkRCJZktSe/tsmsyMKjvURC4VJRFeR/ADrwYhSaJmp0NpU37pNP9KKB90we2hhZmCLX0jW6lDY=
